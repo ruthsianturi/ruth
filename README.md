@@ -1,0 +1,2 @@
+# ruth
+belajar github
